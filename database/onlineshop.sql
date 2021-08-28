@@ -359,15 +359,15 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `email`, `password`, `mobile`, `address1`, `address2`) VALUES
-(12, 'puneeth', 'Reddy', 'ksandeepjpg@gmail.com', 'puneeth', '9448121558', '123456789', 'sdcjns,djc'),
-(15, 'hemu', 'ajhgdg', 'ksandeepjpg@gmail.com', '346778', '536487276', ',mdnbca', 'asdmhmhvbv'),
-(16, 'venky', 'vs', 'venkey@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
-(19, 'abhishek', 'bs', 'abhishekbs@gmail.com', 'asdcsdcc', '9871236534', 'bangalore', 'hassan'),
-(21, 'prajval', 'mcta', 'prajvalmcta@gmail.com', '1234545662', '202-555-01', 'bangalore', 'kumbalagodu'),
+(12, 'Sandeep', 'Reddy', 'ksandeepjpg@gmail.com', 'Sandeep', '9576925545', 'Patna', 'Bihar'),
+(15, 'hemu', 'ajhgdg', 'hemu@gmail.com', '346778', '536487276', ',Patna', 'Bihar'),
+(16, 'venkey', 'vs', 'venkey@gmail.com', '1234534', '9877654334', 'Patna', 'Bihar'),
+(19, 'abhishek', 'bs', 'abhishekbs@gmail.com', 'asdcsdcc', '9871236534', 'ara', 'Bihar'),
+(21, 'prajval', 'mcta', 'prajvalmcta@gmail.com', '1234545662', '202-555-01', 'bihar', 'Bihar'),
 (22, 'puneeth', 'v', 'hemu@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
-(23, 'hemanth', 'reddy', 'hemanth@gmail.com', 'Puneeth@123', '9876543234', 'Bangalore', 'Kumbalagodu'),
-(24, 'newuser', 'user', 'newuser@gmail.com', 'puneeth@123', '9535688928', 'Bangalore', 'Kumbalagodu'),
-(25, 'otheruser', 'user', 'otheruser@gmail.com', 'puneeth@123', '9535688928', 'Bangalore', 'Kumbalagodu');
+(23, 'hemanth', 'reddy', 'hemanth@gmail.com', 'Hemnath@123', '9876543234', 'Bhojpur', 'Bihar'),
+(24, 'newuser', 'user', 'newuser@gmail.com', 'newuser@123', '9535688928', 'Patna', 'Bihar'),
+(25, 'otheruser', 'user', 'otheruser@gmail.com', 'otheruser@123', '9535688928', 'Patna', 'Bihar');
 
 --
 -- Triggers `user_info`
